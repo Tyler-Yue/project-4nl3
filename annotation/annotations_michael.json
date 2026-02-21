@@ -1,0 +1,727 @@
+{
+  "annotator": "michael",
+  "created_at": "2026-02-20T21:13:05.272843",
+  "annotations": [
+    {
+      "document_id": 0,
+      "category_number": 9,
+      "category_name": "Family & Relationships",
+      "timestamp": "2026-02-20T21:13:40.924877"
+    },
+    {
+      "document_id": 1,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:14:02.514628"
+    },
+    {
+      "document_id": 2,
+      "category_number": 1,
+      "category_name": "Society & Culture",
+      "timestamp": "2026-02-20T21:14:17.955333"
+    },
+    {
+      "document_id": 3,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:14:24.363817"
+    },
+    {
+      "document_id": 4,
+      "category_number": 3,
+      "category_name": "Health",
+      "timestamp": "2026-02-20T21:14:31.177854"
+    },
+    {
+      "document_id": 5,
+      "category_number": 1,
+      "category_name": "Society & Culture",
+      "timestamp": "2026-02-20T21:14:42.838535"
+    },
+    {
+      "document_id": 6,
+      "category_number": 8,
+      "category_name": "Entertainment & Music",
+      "timestamp": "2026-02-20T21:14:49.786767"
+    },
+    {
+      "document_id": 7,
+      "category_number": 3,
+      "category_name": "Health",
+      "timestamp": "2026-02-20T21:18:17.338143"
+    },
+    {
+      "document_id": 8,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:18:28.062614"
+    },
+    {
+      "document_id": 9,
+      "category_number": 8,
+      "category_name": "Entertainment & Music",
+      "timestamp": "2026-02-20T21:19:20.482010"
+    },
+    {
+      "document_id": 10,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:21:05.030079"
+    },
+    {
+      "document_id": 11,
+      "category_number": 2,
+      "category_name": "Science & Mathematics",
+      "timestamp": "2026-02-20T21:21:10.596509"
+    },
+    {
+      "document_id": 12,
+      "category_number": 8,
+      "category_name": "Entertainment & Music",
+      "timestamp": "2026-02-20T21:21:27.826004"
+    },
+    {
+      "document_id": 13,
+      "category_number": 8,
+      "category_name": "Entertainment & Music",
+      "timestamp": "2026-02-20T21:21:45.033844"
+    },
+    {
+      "document_id": 14,
+      "category_number": 7,
+      "category_name": "Business & Finance",
+      "timestamp": "2026-02-20T21:21:54.923255"
+    },
+    {
+      "document_id": 15,
+      "category_number": 10,
+      "category_name": "Politics & Government",
+      "timestamp": "2026-02-20T21:23:31.480400"
+    },
+    {
+      "document_id": 16,
+      "category_number": 8,
+      "category_name": "Entertainment & Music",
+      "timestamp": "2026-02-20T21:23:36.624905"
+    },
+    {
+      "document_id": 17,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:23:41.634190"
+    },
+    {
+      "document_id": 18,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:24:23.212241"
+    },
+    {
+      "document_id": 19,
+      "category_number": 9,
+      "category_name": "Family & Relationships",
+      "timestamp": "2026-02-20T21:25:04.870903"
+    },
+    {
+      "document_id": 20,
+      "category_number": 1,
+      "category_name": "Society & Culture",
+      "timestamp": "2026-02-20T21:25:27.819188"
+    },
+    {
+      "document_id": 21,
+      "category_number": 3,
+      "category_name": "Health",
+      "timestamp": "2026-02-20T21:25:34.868323"
+    },
+    {
+      "document_id": 22,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:25:47.689633"
+    },
+    {
+      "document_id": 23,
+      "category_number": 6,
+      "category_name": "Sports",
+      "timestamp": "2026-02-20T21:25:55.082608"
+    },
+    {
+      "document_id": 24,
+      "category_number": 2,
+      "category_name": "Science & Mathematics",
+      "timestamp": "2026-02-20T21:25:59.067824"
+    },
+    {
+      "document_id": 25,
+      "category_number": 7,
+      "category_name": "Business & Finance",
+      "timestamp": "2026-02-20T21:26:04.692772"
+    },
+    {
+      "document_id": 26,
+      "category_number": 3,
+      "category_name": "Health",
+      "timestamp": "2026-02-20T21:27:04.870107"
+    },
+    {
+      "document_id": 27,
+      "category_number": 6,
+      "category_name": "Sports",
+      "timestamp": "2026-02-20T21:27:07.640455"
+    },
+    {
+      "document_id": 28,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:27:15.805534"
+    },
+    {
+      "document_id": 29,
+      "category_number": 1,
+      "category_name": "Society & Culture",
+      "timestamp": "2026-02-20T21:27:19.363667"
+    },
+    {
+      "document_id": 30,
+      "category_number": 10,
+      "category_name": "Politics & Government",
+      "timestamp": "2026-02-20T21:27:40.738694"
+    },
+    {
+      "document_id": 31,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:27:52.665902"
+    },
+    {
+      "document_id": 32,
+      "category_number": 10,
+      "category_name": "Politics & Government",
+      "timestamp": "2026-02-20T21:28:01.190435"
+    },
+    {
+      "document_id": 33,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:28:11.533885"
+    },
+    {
+      "document_id": 34,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:28:28.281141"
+    },
+    {
+      "document_id": 35,
+      "category_number": 2,
+      "category_name": "Science & Mathematics",
+      "timestamp": "2026-02-20T21:28:43.652059"
+    },
+    {
+      "document_id": 36,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:28:46.664903"
+    },
+    {
+      "document_id": 37,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:29:01.912581"
+    },
+    {
+      "document_id": 38,
+      "category_number": 1,
+      "category_name": "Society & Culture",
+      "timestamp": "2026-02-20T21:29:10.712950"
+    },
+    {
+      "document_id": 39,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:29:12.937906"
+    },
+    {
+      "document_id": 40,
+      "category_number": 2,
+      "category_name": "Science & Mathematics",
+      "timestamp": "2026-02-20T21:29:19.324181"
+    },
+    {
+      "document_id": 41,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:29:25.061598"
+    },
+    {
+      "document_id": 42,
+      "category_number": 2,
+      "category_name": "Science & Mathematics",
+      "timestamp": "2026-02-20T21:29:28.400812"
+    },
+    {
+      "document_id": 43,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:29:43.714960"
+    },
+    {
+      "document_id": 44,
+      "category_number": 8,
+      "category_name": "Entertainment & Music",
+      "timestamp": "2026-02-20T21:29:47.016631"
+    },
+    {
+      "document_id": 45,
+      "category_number": 1,
+      "category_name": "Society & Culture",
+      "timestamp": "2026-02-20T21:29:50.550397"
+    },
+    {
+      "document_id": 46,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:30:03.201607"
+    },
+    {
+      "document_id": 47,
+      "category_number": 1,
+      "category_name": "Society & Culture",
+      "timestamp": "2026-02-20T21:30:14.173252"
+    },
+    {
+      "document_id": 48,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:30:18.549431"
+    },
+    {
+      "document_id": 49,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:30:27.057633"
+    },
+    {
+      "document_id": 50,
+      "category_number": 2,
+      "category_name": "Science & Mathematics",
+      "timestamp": "2026-02-20T21:30:33.349970"
+    },
+    {
+      "document_id": 51,
+      "category_number": 2,
+      "category_name": "Science & Mathematics",
+      "timestamp": "2026-02-20T21:30:34.977345"
+    },
+    {
+      "document_id": 52,
+      "category_number": 1,
+      "category_name": "Society & Culture",
+      "timestamp": "2026-02-20T21:30:37.747335"
+    },
+    {
+      "document_id": 53,
+      "category_number": 7,
+      "category_name": "Business & Finance",
+      "timestamp": "2026-02-20T21:30:40.114330"
+    },
+    {
+      "document_id": 54,
+      "category_number": 7,
+      "category_name": "Business & Finance",
+      "timestamp": "2026-02-20T21:31:59.213332"
+    },
+    {
+      "document_id": 55,
+      "category_number": 10,
+      "category_name": "Politics & Government",
+      "timestamp": "2026-02-20T21:32:03.713142"
+    },
+    {
+      "document_id": 56,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:32:05.798272"
+    },
+    {
+      "document_id": 57,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:32:11.850038"
+    },
+    {
+      "document_id": 58,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:32:14.594523"
+    },
+    {
+      "document_id": 59,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:32:17.148860"
+    },
+    {
+      "document_id": 60,
+      "category_number": 8,
+      "category_name": "Entertainment & Music",
+      "timestamp": "2026-02-20T21:32:27.444131"
+    },
+    {
+      "document_id": 61,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:32:32.688319"
+    },
+    {
+      "document_id": 62,
+      "category_number": 9,
+      "category_name": "Family & Relationships",
+      "timestamp": "2026-02-20T21:32:37.418106"
+    },
+    {
+      "document_id": 63,
+      "category_number": 6,
+      "category_name": "Sports",
+      "timestamp": "2026-02-20T21:32:40.285974"
+    },
+    {
+      "document_id": 64,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:32:44.071345"
+    },
+    {
+      "document_id": 65,
+      "category_number": 6,
+      "category_name": "Sports",
+      "timestamp": "2026-02-20T21:32:49.877951"
+    },
+    {
+      "document_id": 66,
+      "category_number": 2,
+      "category_name": "Science & Mathematics",
+      "timestamp": "2026-02-20T21:32:57.262208"
+    },
+    {
+      "document_id": 67,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:33:03.597662"
+    },
+    {
+      "document_id": 68,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:33:06.684496"
+    },
+    {
+      "document_id": 69,
+      "category_number": 1,
+      "category_name": "Society & Culture",
+      "timestamp": "2026-02-20T21:33:19.355244"
+    },
+    {
+      "document_id": 70,
+      "category_number": 8,
+      "category_name": "Entertainment & Music",
+      "timestamp": "2026-02-20T21:33:25.586133"
+    },
+    {
+      "document_id": 71,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:33:31.203438"
+    },
+    {
+      "document_id": 72,
+      "category_number": 10,
+      "category_name": "Politics & Government",
+      "timestamp": "2026-02-20T21:33:34.019238"
+    },
+    {
+      "document_id": 73,
+      "category_number": 10,
+      "category_name": "Politics & Government",
+      "timestamp": "2026-02-20T21:33:39.500910"
+    },
+    {
+      "document_id": 74,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:33:44.686171"
+    },
+    {
+      "document_id": 75,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:33:49.903098"
+    },
+    {
+      "document_id": 76,
+      "category_number": 3,
+      "category_name": "Health",
+      "timestamp": "2026-02-20T21:33:53.015908"
+    },
+    {
+      "document_id": 77,
+      "category_number": 7,
+      "category_name": "Business & Finance",
+      "timestamp": "2026-02-20T21:34:00.967526"
+    },
+    {
+      "document_id": 78,
+      "category_number": 9,
+      "category_name": "Family & Relationships",
+      "timestamp": "2026-02-20T21:34:06.139180"
+    },
+    {
+      "document_id": 79,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:34:07.362740"
+    },
+    {
+      "document_id": 80,
+      "category_number": 3,
+      "category_name": "Health",
+      "timestamp": "2026-02-20T21:34:13.140826"
+    },
+    {
+      "document_id": 81,
+      "category_number": 10,
+      "category_name": "Politics & Government",
+      "timestamp": "2026-02-20T21:34:15.308879"
+    },
+    {
+      "document_id": 82,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:34:19.963800"
+    },
+    {
+      "document_id": 83,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:34:26.742461"
+    },
+    {
+      "document_id": 84,
+      "category_number": 2,
+      "category_name": "Science & Mathematics",
+      "timestamp": "2026-02-20T21:34:30.622006"
+    },
+    {
+      "document_id": 85,
+      "category_number": 6,
+      "category_name": "Sports",
+      "timestamp": "2026-02-20T21:34:36.055473"
+    },
+    {
+      "document_id": 86,
+      "category_number": 3,
+      "category_name": "Health",
+      "timestamp": "2026-02-20T21:34:42.436640"
+    },
+    {
+      "document_id": 87,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:34:45.335605"
+    },
+    {
+      "document_id": 88,
+      "category_number": 10,
+      "category_name": "Politics & Government",
+      "timestamp": "2026-02-20T21:35:04.577832"
+    },
+    {
+      "document_id": 89,
+      "category_number": 8,
+      "category_name": "Entertainment & Music",
+      "timestamp": "2026-02-20T21:35:07.833147"
+    },
+    {
+      "document_id": 90,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:35:09.704021"
+    },
+    {
+      "document_id": 91,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:35:29.671077"
+    },
+    {
+      "document_id": 92,
+      "category_number": 7,
+      "category_name": "Business & Finance",
+      "timestamp": "2026-02-20T21:35:34.690925"
+    },
+    {
+      "document_id": 93,
+      "category_number": 2,
+      "category_name": "Science & Mathematics",
+      "timestamp": "2026-02-20T21:35:35.986625"
+    },
+    {
+      "document_id": 94,
+      "category_number": 3,
+      "category_name": "Health",
+      "timestamp": "2026-02-20T21:35:39.269398"
+    },
+    {
+      "document_id": 95,
+      "category_number": 3,
+      "category_name": "Health",
+      "timestamp": "2026-02-20T21:35:43.746243"
+    },
+    {
+      "document_id": 96,
+      "category_number": 2,
+      "category_name": "Science & Mathematics",
+      "timestamp": "2026-02-20T21:35:51.846480"
+    },
+    {
+      "document_id": 97,
+      "category_number": 8,
+      "category_name": "Entertainment & Music",
+      "timestamp": "2026-02-20T21:35:55.373518"
+    },
+    {
+      "document_id": 98,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:35:58.998564"
+    },
+    {
+      "document_id": 99,
+      "category_number": 1,
+      "category_name": "Society & Culture",
+      "timestamp": "2026-02-20T21:36:03.449228"
+    },
+    {
+      "document_id": 100,
+      "category_number": 1,
+      "category_name": "Society & Culture",
+      "timestamp": "2026-02-20T21:36:10.027067"
+    },
+    {
+      "document_id": 101,
+      "category_number": 3,
+      "category_name": "Health",
+      "timestamp": "2026-02-20T21:37:36.885562"
+    },
+    {
+      "document_id": 102,
+      "category_number": 1,
+      "category_name": "Society & Culture",
+      "timestamp": "2026-02-20T21:37:40.194624"
+    },
+    {
+      "document_id": 103,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:37:54.417697"
+    },
+    {
+      "document_id": 104,
+      "category_number": 1,
+      "category_name": "Society & Culture",
+      "timestamp": "2026-02-20T21:38:00.909642"
+    },
+    {
+      "document_id": 105,
+      "category_number": 3,
+      "category_name": "Health",
+      "timestamp": "2026-02-20T21:38:03.190196"
+    },
+    {
+      "document_id": 106,
+      "category_number": 7,
+      "category_name": "Business & Finance",
+      "timestamp": "2026-02-20T21:38:12.191584"
+    },
+    {
+      "document_id": 107,
+      "category_number": 1,
+      "category_name": "Society & Culture",
+      "timestamp": "2026-02-20T21:38:14.960246"
+    },
+    {
+      "document_id": 108,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:38:22.545283"
+    },
+    {
+      "document_id": 109,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:38:24.073778"
+    },
+    {
+      "document_id": 110,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:38:26.568733"
+    },
+    {
+      "document_id": 111,
+      "category_number": 3,
+      "category_name": "Health",
+      "timestamp": "2026-02-20T21:38:29.694659"
+    },
+    {
+      "document_id": 112,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:38:32.254237"
+    },
+    {
+      "document_id": 113,
+      "category_number": 8,
+      "category_name": "Entertainment & Music",
+      "timestamp": "2026-02-20T21:38:39.362723"
+    },
+    {
+      "document_id": 114,
+      "category_number": 7,
+      "category_name": "Business & Finance",
+      "timestamp": "2026-02-20T21:38:46.001220"
+    },
+    {
+      "document_id": 115,
+      "category_number": 4,
+      "category_name": "Education & Reference",
+      "timestamp": "2026-02-20T21:38:51.177507"
+    },
+    {
+      "document_id": 116,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:38:53.744029"
+    },
+    {
+      "document_id": 117,
+      "category_number": 5,
+      "category_name": "Computers & Internet",
+      "timestamp": "2026-02-20T21:38:55.133345"
+    },
+    {
+      "document_id": 118,
+      "category_number": 6,
+      "category_name": "Sports",
+      "timestamp": "2026-02-20T21:38:58.511235"
+    },
+    {
+      "document_id": 119,
+      "category_number": 9,
+      "category_name": "Family & Relationships",
+      "timestamp": "2026-02-20T21:39:07.631654"
+    }
+  ],
+  "last_updated": "2026-02-20T21:39:08.798542"
+}
