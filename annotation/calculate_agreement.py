@@ -149,8 +149,7 @@ def interpret_agreement(score, metric_name):
 def main():
     """Main function to calculate agreement."""
     print("=" * 80)
-    print("INTER-ANNOTATOR AGREEMENT CALCULATOR")
-    print("COMPSCI 4NL3 - Group 37")
+    print("Agreement Calculation")
     print("=" * 80)
     
     # Load all annotations

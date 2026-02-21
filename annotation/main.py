@@ -126,7 +126,9 @@ def save_annotations(annotation_data, annotator_name, mode='new'):
             writer.writerow([ann['document_id'], ann['category_number'], ann['category_name'], ann['timestamp']])
 
 def main():
+    print("--------------------------------")
     print("--- CUSTOM DATASET ANNOTATOR ---")
+    print("--------------------------------")
     name = input("Enter your name: ").strip().lower()
     if not name: return
 
